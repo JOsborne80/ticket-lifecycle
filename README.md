@@ -146,7 +146,7 @@ Here if we look at the ticket you can clearly see that any alterations made are 
 
 <p>
 
-I am now working on the ticket and decide to transfer to the System Admin department. The transfer to the System Administrators is because they are in charge of mobile banking infrastructure.The SMEs on this team posses the skills needed to resolve this ticket. 
+I am now working on the ticket and decide to transfer to the System Admin department. The transfer to the System Administrators is because they are in charge of mobile banking infrastructure.The SMEs on this team posses the skills needed to resolve this ticket. The osticket dashboard shows the transfer reply posted successfully.
  
 </p>
 <br />
@@ -154,3 +154,8 @@ I am now working on the ticket and decide to transfer to the System Admin depart
 <p>
 <img src="https://i.imgur.com/9nXz3I6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+<img src="https://i.imgur.com/oDqnY5h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
