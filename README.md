@@ -182,3 +182,13 @@ The system administator team ate their wheaties this morning because they just r
 </p>
 
 
+
+<p>
+The system administator wrote a note in the ticket activity log to tell us how they resolved the issue. Click on the closed tickets to see what they said. 
+ 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oBgUZlL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
