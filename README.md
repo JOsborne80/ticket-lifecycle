@@ -168,3 +168,17 @@ You may view every modification or comment attached to the ticket. The ticket ac
 <p>
 <img src="https://i.imgur.com/TSkMhNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+<p>
+The system administator team ate their wheaties this morning because they just resolved the issue. We can now close this ticket. 
+ 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/QuftQb0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
