@@ -165,3 +165,6 @@ You may view every modification or comment attached to the ticket. The ticket ac
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/TSkMhNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
