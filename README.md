@@ -192,3 +192,9 @@ The system administator wrote a note in the ticket activity log to tell us how t
 <p>
 <img src="https://i.imgur.com/oBgUZlL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+<p>
+You guys must have eaten some fruit because I just looped you into the end of my osticket lifecycle project!
+</p>
+<br />
