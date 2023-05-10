@@ -90,3 +90,19 @@ If we click on ticket#278044 you can see the details of the ticket.
 <p>
 <img src="https://i.imgur.com/H8rV5CC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+
+
+We will now change the priority to Emergency because the issue has a major busisness impact. 
+ 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/BulJOKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
