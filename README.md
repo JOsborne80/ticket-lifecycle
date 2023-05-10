@@ -159,3 +159,9 @@ I am now working on the ticket and decide to transfer to the System Admin depart
 <img src="https://i.imgur.com/oDqnY5h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+You may view every modification or comment attached to the ticket. The ticket activity log gives you a good idea of what has already happen and how you can help. 
+ 
+</p>
+<br />
+
