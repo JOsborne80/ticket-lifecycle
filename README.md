@@ -128,21 +128,10 @@ Next I will change the SLA ( service level agreement) to SEV-A because it is a b
 <img src="https://i.imgur.com/5iazUD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>
-
-I am now working on the ticket and decide to transfer to the System Admin department. The transfer to the System Administrators is because they are in charge of mobile banking infrastructure.The SMEs on this team posses the skills needed to resolve this ticket. 
- 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/9nXz3I6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 
 <p>
 
-Here if we look at the ticket you can clearly see that any alterations made are now logged and attached to the ticket. You can also see that the prority leve is alerting us that is an emergency!
+Here if we look at the ticket you can clearly see that any alterations made are now logged and attached to the ticket. You can also see that the prority level is alerting us that is an emergency!
 
  
 </p>
@@ -152,4 +141,16 @@ Here if we look at the ticket you can clearly see that any alterations made are 
 
 <p>
 <img src="https://i.imgur.com/Hq4O1nO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<p>
+
+I am now working on the ticket and decide to transfer to the System Admin department. The transfer to the System Administrators is because they are in charge of mobile banking infrastructure.The SMEs on this team posses the skills needed to resolve this ticket. 
+ 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/9nXz3I6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
