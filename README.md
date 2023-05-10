@@ -130,7 +130,7 @@ Next I will change the SLA ( service level agreement) to SEV-A because it is a b
 
 <p>
 
-I am now working on the ticket and decide to transfer to the System Admin department. The to the System Administrators because they are in charge of mobile banking infrastructure.The SMEs on this team posses the skills needed to resolve this ticket. 
+I am now working on the ticket and decide to transfer to the System Admin department. The transfer to the System Administrators is because they are in charge of mobile banking infrastructure.The SMEs on this team posses the skills needed to resolve this ticket. 
  
 </p>
 <br />
