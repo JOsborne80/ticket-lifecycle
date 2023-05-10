@@ -62,6 +62,9 @@ Above we see our user karen made a general inquiry. She wants to know when they 
  
  The ticket was successfully created. I made a few other tickets so we can have a few tickets in the queue. 
  
+ We will now log in as an aministrator and make some agents to work these tickets. 
+Below you can see that I put Jane Doe in the system admin department at level of supreme admin. I also gave them extended access as supreme admin. I am just making sure we can have the rights to modify and assign these tickets to agents.
+ 
 </p>
 <br />
 
