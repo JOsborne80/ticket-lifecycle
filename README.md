@@ -53,7 +53,10 @@ Go to the support center to open a new ticket.
 <img src="https://i.imgur.com/jdrd9hb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Above we see our user karen made a general inquiry. She wants to know when they are getting new hardware because her department is having issues with the old tablets. 
+ 
+ The ticket was successfully created. I made a few other tickets so we can have a few tickets in the queue. 
+ 
 </p>
 <br />
 
