@@ -101,7 +101,7 @@ We will now change the priority to Emergency because the issue has a major busis
 
 
 <p>
-<img src="https://i.imgur.com/BulJOKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zCuvdMZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
