@@ -116,4 +116,15 @@ I will now assign this ticket to jane.doe who is an agent on our team (escalatio
 <img src="https://i.imgur.com/1WONmv4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+
+Next I will change the SLA ( service level agreement) to SEV-A because it is a business impacting critical event. 
+ 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/5iazUD8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
