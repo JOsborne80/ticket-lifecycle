@@ -140,3 +140,16 @@ I am now working on the ticket and decide to transfer to the System Admin depart
 </p>
 
 
+<p>
+
+Here if we look at the ticket you can clearly see that any alterations made are now logged and attached to the ticket. You can also see that the prority leve is alerting us that is an emergency!
+
+ 
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/Hq4O1nO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
